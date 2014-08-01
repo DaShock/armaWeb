@@ -1,0 +1,18 @@
+body {
+	color: red;
+	background-color: blue;
+	font-family: arial;
+	background-image: url("arma3.jpg");
+	background-size: cover;
+}
+
+h1 {
+	background-color: yellow;
+	font-weight: normal;
+	margin: 20px;
+	padding: 40px;
+	border-style: solid;
+	border-color: green;
+	border-width: 30px;
+}
+
