@@ -1,5 +1,6 @@
 armaWeb
 =======
 
-Just a little test to see how GitHub works
-Hey guys whats up?
+Just a little test to see how GitHub works.
+
+Pretty cool huh?
